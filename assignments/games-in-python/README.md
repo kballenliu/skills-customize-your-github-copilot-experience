@@ -1,9 +1,9 @@
 
 # 📘 Assignment: Games in Python
 
-## � Objective
+## 🎯 Objective
 
-Learn to create interactive games using Python by building a classic Hangman word-guessing game. You'll practice string manipulation, loops, conditionals, and user input handling.
+Learn to create interactive games using Python by building a classic Hangman word-guessing game. You'll practice string manipulation, loops, conditionals, and user input handling.Assignment: Games in Python
 
 ## 📝 Tasks
 
